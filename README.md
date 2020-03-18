@@ -1,6 +1,6 @@
 # Description
 
-This is the source code of our ACM TOMM 2019 paper "RCE-HIL: Recognizing Cross-media Entailment with Heterogeneous Interactive Learning". Please cite the following paper if you use the resources.
+This is the source code of our ACM TOMM 2020 paper "RCE-HIL: Recognizing Cross-media Entailment with Heterogeneous Interactive Learning". Please cite the following paper if you use the resources.
 
 Xin Huang, Yuxin Peng and Zhang Wen, "RCE-HIL: Recognizing Cross-media Entailment with Heterogeneous Interactive Learning", ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019.
 
